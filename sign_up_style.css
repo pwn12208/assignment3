@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('bg.jpg');
+}
+
+.sign-up{
+    width: 450px;
+   background: white;
+   padding: 25px;
+   margin: 10% auto 0;
+   text-align: center;
+   box-shadow: 0 0 5px blue;
+}
+
+.sgn-button{
+    display: inline;
+}
+
+.inp-box{
+    display: block;
+    width: 100%;
+    border-radius: 4px;
+    padding: 12px;
+    margin: 10px -10px;
+    border:  1px solid blue;
+    outline: none;
+}
+
+.cancel-button{
+    background: red;
+}
+
+button{
+    cursor: pointer;
+}
+
+h2{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
